@@ -1,0 +1,1 @@
+Sample App part of Mike Hartl's tutorial.
