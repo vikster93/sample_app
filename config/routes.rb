@@ -1,5 +1,5 @@
 SampleApp::Application.routes.draw do
-  match "/signup", to: "user#new"
+  match "/signup", to: "users#new"
 
 
 
