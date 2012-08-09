@@ -3,3 +3,4 @@ rails generate migration add_password_digest_to_users password_digest:string
 rails generate migration add_index_to_users_email
 rails server --environment production
 bundle exec rake db:reset
+rails generate migration add_remember_token_to_users
